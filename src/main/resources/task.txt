@@ -1,0 +1,29 @@
+************* CarWashing **************
+Aftomoyka ishlash jarayonini avtomatlashtiradigan dastur yozing.
+Unda quyidagi talablar qilinsin:
+
+1. Ishchilar:
+    a. Dasturda ishchilar ma'lumotlari bo'lsin.
+  b. Ularning ma'lumotlarini qidirib topish funksiyasi ham bo'lsin.
+  c. Ishchilarning ismi, familiyasi, telefon raqami, ishga kirgan vaqti kabi ma'lumotlar bo'lishi kerak.
+
+
+2. Moshinalar:
+  a. Moshinalar ro'yhati bo'lishi kerak.
+  b. Qaysi moshina qachon aftomoyka xizmatidan foydalangani ro'yhati bo'lishi kerak.
+  c. Har 10-chi marta Aftomoykaga kelgan moshinaqa 50% chegirma bo'lishi kerak.
+  d. Moshinalarning nomeri, modely, rangi va ro'yhatdan o'tgan sanasi bo'ladi.
+
+4. Xizmar turi:
+  a. Xizmat turlari bular moshinaga ko'rsatilgan qandaydir ishdir.
+  b. Ular: Moshina yuvush, Moshunani salonni yuvish, Balonlarni qoraytirish,....
+  c. Xizmat turlarini qo'shish yoli olib tashlash funksionali bo'lishi kerak.
+  d. Qaysidir xizmat turlaridan ma'lum bir vaqtda foydalanish mumkun yoki mumkun emas bo'ladi.
+  e. Xar bir xizmat turining nomi, bahosi va ishchi oladigan foiz miqdori
+
+
+3. Xizmatlar:
+  a. Xizmat bu qaysidir ischi tamonidan bitta moshinaga ko'rstilgan aniq bitta xizmat turini bildiradi.
+    Ya'ni qaysidir moshinani  qaysidir ishchi yuvsa (moshka qilsa) bu bitta xizmat turi hisoblanadi.
+    Shu ko'rsatilgan xizmat summasi haydovchidan olinadi va xizmatni amalga oshirgan ishchiga foiz beriladi.
+  b. Bitta moshina kelganda unga bir-nechda xizmat ko'rsatilishi mumkun.
